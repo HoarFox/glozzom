@@ -1,0 +1,15 @@
+#faq {
+  .card {
+    border: #444;
+  }
+
+  a {
+    color: $white;
+    text-decoration: none;
+  }
+
+  .card-body,
+  .card-header {
+    background-color: #333;
+  }
+}

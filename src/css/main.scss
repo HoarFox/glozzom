@@ -1,0 +1,23 @@
+@import "./utils/vars";
+@import "./utils/snippets";
+@import "./sections/index/navbar";
+@import "./sections/index/showcase";
+@import "./sections/index/home-heading";
+@import "./sections/index/video";
+@import "./sections/about/page-header";
+@import "./sections/about/about";
+@import "./sections/services/faq";
+
+// libs
+@import "./libs/ekko-lightbox";
+@import "./libs/slick";
+@import "./libs/slick-theme";
+
+// body {
+//   overflow-x: hidden;
+// }
+
+#main-footer {
+  background-color: $black;
+  color: $white;
+}

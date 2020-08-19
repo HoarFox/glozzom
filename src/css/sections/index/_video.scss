@@ -1,0 +1,13 @@
+#video-play {
+  position: relative;
+  min-height: 200px;
+  background-image: url("../img/media.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: 0 -300px;
+  color: $white;
+
+  a {
+    color: $white;
+  }
+}
